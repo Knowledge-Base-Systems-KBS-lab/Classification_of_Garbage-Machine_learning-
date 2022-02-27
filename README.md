@@ -25,3 +25,7 @@ Cardboard:
 ![cardboard38](https://user-images.githubusercontent.com/20832374/155896258-6f8e38da-f9b6-4c0d-88a2-dfc57141baf9.jpg)
 
 
+Accuracy:
+
+![download1](https://user-images.githubusercontent.com/20832374/155896329-7bf8d05b-b2d2-44a4-ac24-afceb42d5ba3.png)
+
